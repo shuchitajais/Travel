@@ -28,9 +28,7 @@ An interactive Power BI dashboard that visualizes personal travel data across In
 ---
 
 ## 📷 Dashboard Preview
-
-
-
+![Dashboard Preview](dashboard-preview.png)
 
 ---
 
