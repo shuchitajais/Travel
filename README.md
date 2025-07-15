@@ -39,7 +39,7 @@ An interactive Power BI dashboard that visualizes personal travel data across In
 |------|-------------|
 | `Travel_India_Tracker.pbix` | Main Power BI dashboard file |
 | `Travel_Tracker_14_July.xlsx` | Dataset used |
-| `Dashboard_Screenshot.png` | Dashboard preview image |
+| `Dashboard_Screenshot` | Dashboard preview image |
 
 ---
 
